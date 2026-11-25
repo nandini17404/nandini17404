@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./light.svg" width="100%" alt="Nandini Gupta — Data Science and Analytics"/>
+<img src="./light (3).svg" width="100%" alt="Nandini Gupta — Data Science and Analytics"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1400&color=6478C5&center=true&vCenter=true&width=650&lines=Data+Science+%26+Analytics;Business+Intelligence+%7C+Predictive+Analytics;Turning+data+into+meaningful+decisions" alt="Animated professional headline"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-sandip-gupta/) [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge)](https://nandini-gupta-portfolio.netlify.app/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n172630@gmail.com)
