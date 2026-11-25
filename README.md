@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark (1).svg">
   <source media="(prefers-color-scheme: light)" srcset="./light (1).svg">
-  <img src="./dark.svg" alt="Nandini Gupta">
+  <img src="./dark (1).svg" alt="Nandini Gupta">
 </picture>
 
 
