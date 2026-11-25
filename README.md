@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark (1).svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light (1).svg">
+  <img src="./dark.svg" alt="Nandini Gupta">
+</picture>
+
+
 # 💫 About Me:
 🌱 I’m currently working on **Data Science, Machine Learning, NLP, and Analytics Projects**  <br>👯 I’m looking to collaborate on **AI, Machine Learning, NLP, and Data Analytics Projects**  <br>🤝 I’m looking for help with **Advanced Deep Learning and Scalable AI Systems**  <br>🌱 I’m currently learning **Deep Learning, Computer Vision, NLP, and Advanced Machine Learning**  <br>💬 Ask me about **Python, Power BI, Machine Learning, Data Science, NLP, and Data Analytics**  <br>⚡ Fun fact: **I enjoy converting complex datasets into meaningful insights and intelligent solutions**
 
